@@ -8,4 +8,4 @@ The engine supports both gomoku and renju rules. The gomoku rule doesn't require
 The UI is developed using QT. It is artistic.
 
 ## Build
-Todo.
+## Todo
