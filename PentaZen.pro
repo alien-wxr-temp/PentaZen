@@ -28,7 +28,6 @@ SOURCES += \
     ui/chessboard.cpp \
     ui/xrhall.cpp \
     ui/xrroom.cpp \
-    ui/xrtemp.cpp \
     main.cpp \
     engine/board.c \
     engine/book.c \
@@ -52,8 +51,7 @@ HEADERS += \
     engine/uiinc.h \
     ui/chessboard.h \
     ui/xrhall.h \
-    ui/xrroom.h \
-    ui/xrtemp.h
+    ui/xrroom.h
 
 FORMS += \
     ui/xrhall.ui \
