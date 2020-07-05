@@ -1,4 +1,6 @@
-# PentaZen Desktop
+# SunGomoku Qt (PentaZen_old)
+
+This repo is archived. You can visit [PentaZen_Qt](https://github.com/alien-wxr/PentaZen_Qt) to get the newest version of PentaZen.
 
 This is a gomoku/renju program developed by [Sun](https://github.com/sun-yuliang) and [Xiaorong Wang](https://github.com/alien-wxr). The engine part is written by **Sun** using C and the UI part is written by **Xiaorong Wang** using C++.
 
